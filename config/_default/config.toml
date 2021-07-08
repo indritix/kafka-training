@@ -3,7 +3,7 @@ title = "Kafka Training"
 
 enableGitInfo = true
 
-theme = ["docsy-acend", "docsy-plus", "docsy"]
+theme = ["docsy-puzzle", "docsy-plus", "docsy"]
 
 languageCode = "en-us"
 
