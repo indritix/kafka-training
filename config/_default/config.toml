@@ -73,6 +73,7 @@ url = "https://www.puzzle.ch"
 copyright = "Puzzle ITC GmbH"
 github_repo = "https://github.com/puzzle/kafka-training"
 github_branch = "main"
+imagePrefix = "puzzle_"
 
 enabledModule = "base"
 
