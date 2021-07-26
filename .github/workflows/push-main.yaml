@@ -91,4 +91,4 @@ jobs:
           TRAINING_HELM_RELEASE: 'latest'
           TRAINING_NAMESPACE: 'pitc-kafka-training-prod'
         run: |
-          kubectl rollout restart deployment/$TRAINING_HELM_RELEASE-argocd-training-puzzle --kubeconfig $HOME/.kube/config --namespace $TRAINING_NAMESPACE
+          kubectl rollout restart deployment/$TRAINING_HELM_RELEASE-kafka-training-puzzle --kubeconfig $HOME/.kube/config --namespace $TRAINING_NAMESPACE
